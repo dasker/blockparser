@@ -128,7 +128,7 @@ blockparser
 
         Get the source:
 
-            git clone git://github.com/znort987/blockparser.git
+            git clone git://github.com/dasker/blockparser.git
 
         Build it:
 
